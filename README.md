@@ -340,7 +340,7 @@ Now, explain in your own words:
   Highlight the benefits of using Spark for large-scale data processing (e.g., in-memory computation, distributed processing) and its potential drawbacks (e.g., setup complexity, overhead for small datasets).
 
 - **Relation to Exercise 2:**  
-  Connect this approach to the concepts explored in Exercise 2, such as performance optimization, scalability considerations, or OLTP vs OLAP usage.
+  Connect this approach to the concepts explored in Exercise 2, such as performance optimization and scalability considerations.
 
 ## Exercise 4
 Port the SQL queries from exercise 1 to spark.
